@@ -1,3 +1,4 @@
+/* IMAGES */
 
 img {
   height: 11rem;
@@ -10,6 +11,8 @@ img {
   padding: 30px;
 }
 
+/* TITLES */
+
 h1, 
 h2 {
     margin-top: 3rem;
@@ -20,12 +23,11 @@ h2 {
     text-align: center;
 }
 
-h2 {
+h2, h3 {
   padding-top: 2rem;
 }
 
 h3 {
-  padding-top: 2rem;
   padding-bottom: 1rem;
 }
 
